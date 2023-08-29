@@ -1,10 +1,11 @@
-# MLM-Base
+Multi Level Marketing
+## Premium Larvel Projekt
 
-Multi Level Marketing - Erstellt auf Laravel mit Anbindung an Crypto Projekte und Shop-Systeme
-==============================================
+Wir bieten individuell nach den Anforderungen
+- Anbindungen an Webseiten
+- Anbindung an Shops
+- Anbindung an Crypto Projekte und NFT
 
-Aufbau nach den Vorgaben der Projekte. 
-Voller Quellcode und Zugriff.
-
-Weitere Informationen über m-cit gmbh
-https://m-cit.com/mlm-software/
+##Planung und Informationen
+m-cit GmbH
+https://m-cit.com/mlm-software
